@@ -12,6 +12,10 @@ The `XXXXXX` is the User Id.
 
 If you find any bug or have any suggestions please contact me.
 
+## Download
+
+To download the most recent application, just go to the [releases](https://github.com/SandroMachado/one2invite/releases) tab and download the `*.apk` from the last release.
+
 ## Screenshots
 
 ![Image of Main Activity](assets/main_activity.png)
