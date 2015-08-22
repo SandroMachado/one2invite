@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notification_preference_values">
+        <item>Never</item>
+        <item>Every hour</item>
+        <item>Every two hours</item>
+        <item>Every four hours</item>
+        <item>Every eight hours</item>
+        <item>Every twelve hours</item>
+        <item>Every day</item>
+    </string-array>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="aboutlibraries_description"><![CDATA[<b>One2Invite</b><br/>Check the project at: <a href=\"url\">https://github.com/SandroMachado/one2invite</a>]]></string>
+    <string name="aboutlibraries_title">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_main_button_share">Share</string>
+    <string name="activity_main_configure_email_dialog_register_email">Register Email</string>
+    <string name="activity_main_configure_notifications_dialog_content">Select how often the application should check for updates of your position in the invites list</string>
+    <string name="activity_main_configure_notifications_dialog_title">Configure the notifications</string>
+    <string name="activity_main_configure_userid_dialog_description">To get the your User Id go to your invite URL and get the number at the end of the URL. Example: (https://oneplus.net/de/invites?kolid=XXXXXX) the User Id is the XXXXXX value</string>
+    <string name="activity_main_configure_userid_dialog_error_userid">Invalid user id address</string>
+    <string name="activity_main_configure_userid_dialog_hint">Insert your user id</string>
+    <string name="activity_main_configure_userid_dialog_title">Insert your user id</string>
+    <string name="activity_main_error_internet_textviewlink">It is necessary network access</string>
+    <string name="activity_main_error_userid_not_registered">User Id not registered.</string>
+    <string name="activity_main_label_referrals">Referrals:</string>
+    <string name="activity_main_menu_about">About</string>
+    <string name="activity_main_menu_configure_notifications">Configure Notifications</string>
+    <string name="activity_main_menu_configure_userid">Configure User Id</string>
+    <string name="activity_main_menu_refresh">Refresh</string>
+    <string name="activity_main_share_message">I just reserved my OnePlus 2 invite! Sign up for yours today.</string>
+    <string name="activity_main_share_message_action">Share link</string>
+    <string name="activity_main_snackbar_invalid_userid">You need to set a valid User Id</string>
+    <string name="activity_main_textview_link_invalid_userid">Configure your User Id</string>
+    <string name="app_name">One2Invite</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2255759980131603/3985632979</string>
+    <string name="global_configure">Configure</string>
+    <string name="global_confirm">Confirm</string>
+    <string name="global_connect_to_internet">Please connect your device to the Internet</string>
+    <string name="global_dismiss">Dismiss</string>
+    <string name="global_generic_error">An error occurred. Please try again later.</string>
+    <string name="global_loading">Loading</string>
+    <string name="global_please_wait">Please wait…</string>
+    <string name="global_register">Register</string>
+    <string name="global_retry">Retry</string>
+    <string name="notification_title">Position update</string>
+    <string name="notifications_earned_positions">You earned some positions in the ranking</string>
+    <string name="notifications_lost_positions">You lost some positions in the ranking</string>
+</resources>

@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:title="@string/activity_main_menu_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_configure_userid"
+        android:orderInCategory="100"
+        android:title="@string/activity_main_menu_configure_userid"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_configure_notifications"
+        android:orderInCategory="100"
+        android:title="@string/activity_main_menu_configure_notifications"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="@string/activity_main_menu_about"
+        app:showAsAction="never" />
+
+</menu>
