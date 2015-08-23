@@ -5,7 +5,7 @@ With One2Invite you can add your User Id and track your position on the OnePlus 
 
 ## How to get the User id
 
-To get your User Id just to to your referral URL and the last digits is your User Id.
+To get your User Id just go to your referral URL and the last digits is your User Id.
 https://oneplus.net/invites?*****=XXXXXX
 
 The `XXXXXX` is the User Id.
